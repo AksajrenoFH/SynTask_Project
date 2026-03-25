@@ -109,6 +109,12 @@ SynTask is built **for teenagers and beginners**, aiming to provide a bridge for
 
 ## 🖼️ Preview App
 
+### 1. PROTOTYPE PREVIEW
+
+<img width="4268" height="2374" alt="SynTask" src="https://github.com/user-attachments/assets/e01546a6-8184-479b-acc7-5f0912765510" />
+
+### 2. In App Preview
+
 ### 🚧 Still Under Development 🚧
 
 ---
