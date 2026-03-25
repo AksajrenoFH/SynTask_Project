@@ -8,64 +8,41 @@
 ⚠️NOTE : Masih dalam pengembangan, mungkin suatu hari akan berubah⚠️ <br/>
 ⚠️NOTE : Still under development, someday maybe will change⚠️
 
-<div>
-  <table>
-    <tr>
-      <td align="center" >
-        <b>Table Of Content</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>NO</b>
-      </td>
-      <td>
-        <b>LIST</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#1">#1</a>
-      </td>
-      <td>Profile</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#2">#2</a>
-      </td>
-      <td>Package</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#3">#3</a>
-      </td>
-      <td>Key Features</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#4">#4</a>
-      </td>
-      <td>Preview</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#5">#5</a>
-      </td>
-      <td>Tech Stack</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#6">#6</a>
-      </td>
-      <td>How to install</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#7">#7</a>
-      </td>
-      <td>Closing</td>
-    </tr>
-  </table>
+<div align="left">
+
+### 📚 Table of Contents
+
+<table>
+  <tr>
+    <td>#1</td>
+    <td><a href="#1">Profile</a></td>
+  </tr>
+  <tr>
+    <td>#2</td>
+    <td><a href="#2">Package</a></td>
+  </tr>
+  <tr>
+    <td>#3</td>
+    <td><a href="#3">Key Features</a></td>
+  </tr>
+  <tr>
+    <td>#4</td>
+    <td><a href="#4">Preview</a></td>
+  </tr>
+  <tr>
+    <td>#5</td>
+    <td><a href="#5">Tech Stack</a></td>
+  </tr>
+  <tr>
+    <td>#6</td>
+    <td><a href="#6">Getting Started</a></td>
+  </tr>
+  <tr>
+    <td>#7</td>
+    <td><a href="#7">Closing</a></td>
+  </tr>
+</table>
+
 </div>
 
 
@@ -168,8 +145,6 @@ After running the app, you can open it using:
 - Android Emulator
 - iOS Simulator 
 - Expo Go (for quick testing on your device)
-
-You can start developing by editing files inside the app directory.
 
 ---
 
