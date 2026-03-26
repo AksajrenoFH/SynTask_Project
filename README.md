@@ -1,4 +1,4 @@
-# 🌐 SynTask
+# 🌐 SynTask 
 ``Syntax. Solved by Task!`` Or you can use ``SynTask``😉
 
 <div align="center">
@@ -68,15 +68,18 @@ SynTask is built **for teenagers and beginners**, aiming to provide a bridge for
 
 🚧 Still Under Development 🚧
 
-- **Basic Pack** = FREE <br/>
-  Basic learning access and beginner tasks
-- **Pro Pack** = IDR 59.000/bulan (± $3.5/month)<br/>
-  Full access to practice, smart features, and advanced tools
-- **Pro Pack Annual** = IDR 600.000/tahun (± $35/year)<br/>
-  Save 15% compared to monthly plan
-- **Family Pack** = IDR 200.000/bulan (± $11/month)<br/>
-  Up to 4 accounts with progress tracking
+<div id="2"></div>
 
+## 📦 Package
+
+| No | Package | Price | Features |
+| :--- | :--- | :--- | :--- |
+| 1 | **Basic Pack** | **FREE** | Basic learning access and beginner tasks |
+| 2 | **Pro Pack** | **IDR 59.000/month** | Full access to practice, smart features, and advanced tools |
+| 3 | **Pro Pack Annual** | **IDR 600.000/year** | Save 15% compared to monthly plan |
+| 4 | **Family Pack** | **IDR 200.000/month** | Up to 4 accounts with progress tracking |
+
+---
 ---
 
 <div id="3"></div>
